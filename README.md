@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @demi05
-- 👀 I’m interested in coding
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning front end programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
