@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @demi05
+- 👋 Hi, I’m Leshi Taiwo
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning front end programming
+- 🌱 I’m currently learning front end development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 Email- demiladeleshi@gmail.com
