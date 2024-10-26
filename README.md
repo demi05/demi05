@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leshi Taiwo Oluwademilade</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">A passionate frontend developer from Nigeri</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=demi05&label=Profile%20views&color=0e75b6&style=flat" alt="demi05" /> </p>
 
@@ -9,11 +9,17 @@
 
 - 🌱 I’m currently learning **React, TypeScript**
 
+- 🤝 I’m looking for help with **Frontend jobs**
+
+- 👨‍💻 All of my projects are available at [https://demiladeleshi-portfolio.netlify.app/](https://demiladeleshi-portfolio.netlify.app/)
+
 - 📝 I regularly write articles on [https://medium.com/@demi05](https://medium.com/@demi05)
 
 - 💬 Ask me about **JavaScript, React**
 
 - 📫 How to reach me **demiladeleshi@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1M4_CqnlA8hll-pVAj0lrrqW5IkS0KWjU/view?usp=drive_link](https://drive.google.com/file/d/1M4_CqnlA8hll-pVAj0lrrqW5IkS0KWjU/view?usp=drive_link)
 
 - ⚡ Fun fact **I listen to music 70% of the day**
 
