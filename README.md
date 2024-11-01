@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React, TypeScript**
 
-- 🤝 I’m looking for help with **Frontend jobs**
+- 🤝 I’m looking for **Frontend jobs**
 
 - 👨‍💻 All of my projects are available at [https://demiladeleshi-portfolio.netlify.app/](https://demiladeleshi-portfolio.netlify.app/)
 
